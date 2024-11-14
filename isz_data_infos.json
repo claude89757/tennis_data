@@ -463,9 +463,24 @@
                         "show_status": "25元"
                     },
                     {
-                        "time": "13:00-15:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
+                        "time": "13:00-13:30",
+                        "status": "可预订",
+                        "show_status": "25元"
+                    },
+                    {
+                        "time": "13:30-14:00",
+                        "status": "可预订",
+                        "show_status": "25元"
+                    },
+                    {
+                        "time": "14:00-14:30",
+                        "status": "可预订",
+                        "show_status": "25元"
+                    },
+                    {
+                        "time": "14:30-15:00",
+                        "status": "可预订",
+                        "show_status": "25元"
                     },
                     {
                         "time": "15:00-16:00",
