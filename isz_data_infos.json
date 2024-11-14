@@ -353,9 +353,14 @@
                         "show_status": "已预订"
                     },
                     {
-                        "time": "08:00-09:00",
+                        "time": "08:00-08:30",
                         "status": "已预定",
-                        "show_status": "已预订"
+                        "show_status": "已过期"
+                    },
+                    {
+                        "time": "08:30-09:00",
+                        "status": "可预订",
+                        "show_status": "25元"
                     },
                     {
                         "time": "09:00-09:30",
