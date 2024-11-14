@@ -128,8 +128,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -235,8 +235,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -332,8 +332,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -1154,8 +1154,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -1241,8 +1241,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -1338,8 +1338,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -1537,8 +1537,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "25元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -2343,440 +2343,7 @@
                     }
                 ]
             },
-            "星期五(11-15)": {
-                "1号风雨场": [
-                    {
-                        "time": "07:00-09:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "09:00-10:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "10:00-11:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "11:00-13:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "13:00-15:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "15:00-16:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "16:00-17:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "17:00-19:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "19:00-21:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "21:00-22:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "22:00-22:30",
-                        "status": "可预订",
-                        "show_status": "85元"
-                    }
-                ],
-                "2号风雨场": [
-                    {
-                        "time": "07:00-07:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "07:30-08:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "08:00-09:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "09:00-10:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "10:00-11:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "11:00-12:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "12:00-13:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "13:00-15:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "15:00-16:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "16:00-17:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "17:00-18:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "18:00-19:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "19:00-21:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "21:00-22:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "22:00-22:30",
-                        "status": "可预订",
-                        "show_status": "85元"
-                    }
-                ],
-                "3号风雨场": [
-                    {
-                        "time": "07:00-09:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "09:00-10:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "10:00-11:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "11:00-13:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "13:00-14:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "14:00-15:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "15:00-16:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "16:00-17:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "17:00-18:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "18:00-19:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "19:00-20:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "20:00-21:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "21:00-22:30",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    }
-                ],
-                "4号风雨场": [
-                    {
-                        "time": "07:00-09:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "09:00-09:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "09:30-10:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "10:00-11:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "11:00-12:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "12:00-14:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "14:00-16:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "16:00-17:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "17:00-19:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "19:00-20:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "20:00-22:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "22:00-22:30",
-                        "status": "可预订",
-                        "show_status": "85元"
-                    }
-                ],
-                "5号风雨场": [
-                    {
-                        "time": "07:00-07:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "07:30-08:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "08:00-08:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "08:30-09:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "09:00-10:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "10:00-12:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "12:00-13:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "13:00-14:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "14:00-15:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "15:00-16:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "16:00-17:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "17:00-19:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "19:00-20:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "20:00-21:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "21:00-22:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "22:00-22:30",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    }
-                ],
-                "6号风雨场": [
-                    {
-                        "time": "07:00-07:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "07:30-08:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "08:00-10:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "10:30-11:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "11:00-12:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "12:30-13:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "13:00-14:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "14:00-15:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "15:00-15:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "15:30-16:00",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "16:00-17:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "17:00-18:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "18:00-20:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "20:00-22:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
-                    },
-                    {
-                        "time": "22:00-22:30",
-                        "status": "可预订",
-                        "show_status": "85元"
-                    }
-                ]
-            }
+            "星期五(11-15)": {}
         }
     },
     "华侨城": {
@@ -2903,8 +2470,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "50元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -3010,8 +2577,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "50元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
@@ -3107,8 +2674,8 @@
                     },
                     {
                         "time": "10:00-10:30",
-                        "status": "可预订",
-                        "show_status": "50元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "10:30-11:00",
