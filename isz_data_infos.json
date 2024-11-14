@@ -443,14 +443,24 @@
                         "show_status": "已预订"
                     },
                     {
-                        "time": "11:00-12:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
+                        "time": "11:00-11:30",
+                        "status": "可预订",
+                        "show_status": "25元"
                     },
                     {
-                        "time": "12:00-13:00",
-                        "status": "已预定",
-                        "show_status": "已预订"
+                        "time": "11:30-12:00",
+                        "status": "可预订",
+                        "show_status": "25元"
+                    },
+                    {
+                        "time": "12:00-12:30",
+                        "status": "可预订",
+                        "show_status": "25元"
+                    },
+                    {
+                        "time": "12:30-13:00",
+                        "status": "可预订",
+                        "show_status": "25元"
                     },
                     {
                         "time": "13:00-15:00",
@@ -1484,14 +1494,24 @@
                         "show_status": "已过期"
                     },
                     {
-                        "time": "10:00-11:00",
+                        "time": "10:00-10:30",
                         "status": "已预定",
-                        "show_status": "已预订"
+                        "show_status": "已过期"
                     },
                     {
-                        "time": "11:00-12:00",
+                        "time": "10:30-11:00",
                         "status": "已预定",
-                        "show_status": "已预订"
+                        "show_status": "已过期"
+                    },
+                    {
+                        "time": "11:00-11:30",
+                        "status": "可预订",
+                        "show_status": "25元"
+                    },
+                    {
+                        "time": "11:30-12:00",
+                        "status": "可预订",
+                        "show_status": "25元"
                     },
                     {
                         "time": "12:00-12:30",
