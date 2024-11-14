@@ -2806,14 +2806,9 @@
                         "show_status": "已预订"
                     },
                     {
-                        "time": "15:00-15:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "15:30-16:00",
-                        "status": "可预订",
-                        "show_status": "65元"
+                        "time": "15:00-16:00",
+                        "status": "已预定",
+                        "show_status": "已预订"
                     },
                     {
                         "time": "16:00-17:00",
