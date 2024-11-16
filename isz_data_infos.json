@@ -2272,9 +2272,24 @@
                         "show_status": "已预订"
                     },
                     {
-                        "time": "18:00-20:00",
-                        "status": "已预定",
-                        "show_status": "预订中"
+                        "time": "18:00-18:30",
+                        "status": "可预订",
+                        "show_status": "85元"
+                    },
+                    {
+                        "time": "18:30-19:00",
+                        "status": "可预订",
+                        "show_status": "85元"
+                    },
+                    {
+                        "time": "19:00-19:30",
+                        "status": "可预订",
+                        "show_status": "85元"
+                    },
+                    {
+                        "time": "19:30-20:00",
+                        "status": "可预订",
+                        "show_status": "85元"
                     },
                     {
                         "time": "20:00-22:00",
@@ -2712,8 +2727,8 @@
                     },
                     {
                         "time": "17:00-17:30",
-                        "status": "可预订",
-                        "show_status": "65元"
+                        "status": "已预定",
+                        "show_status": "已过期"
                     },
                     {
                         "time": "17:30-18:00",
@@ -2810,14 +2825,9 @@
                         "show_status": ""
                     },
                     {
-                        "time": "21:00-21:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "21:30-22:00",
-                        "status": "可预订",
-                        "show_status": "65元"
+                        "time": "21:00-22:00",
+                        "status": "已预定",
+                        "show_status": "已预订"
                     }
                 ],
                 "2号网球场": [
