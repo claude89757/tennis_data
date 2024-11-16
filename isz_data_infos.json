@@ -2220,14 +2220,9 @@
                         "show_status": "已预订"
                     },
                     {
-                        "time": "20:00-20:30",
-                        "status": "可预订",
-                        "show_status": "85元"
-                    },
-                    {
-                        "time": "20:30-21:00",
-                        "status": "可预订",
-                        "show_status": "85元"
+                        "time": "20:00-21:00",
+                        "status": "已预定",
+                        "show_status": "预订中"
                     },
                     {
                         "time": "21:00-21:30",
@@ -2979,14 +2974,9 @@
                         "show_status": ""
                     },
                     {
-                        "time": "21:00-21:30",
-                        "status": "可预订",
-                        "show_status": "65元"
-                    },
-                    {
-                        "time": "21:30-22:00",
-                        "status": "可预订",
-                        "show_status": "65元"
+                        "time": "21:00-22:00",
+                        "status": "已预定",
+                        "show_status": ""
                     }
                 ],
                 "4号网球场": [
