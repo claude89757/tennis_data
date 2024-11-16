@@ -599,9 +599,19 @@
                         "show_status": "已预订"
                     },
                     {
-                        "time": "21:00-22:30",
-                        "status": "已预定",
-                        "show_status": "预订中"
+                        "time": "21:00-21:30",
+                        "status": "可预订",
+                        "show_status": "50元"
+                    },
+                    {
+                        "time": "21:30-22:00",
+                        "status": "可预订",
+                        "show_status": "50元"
+                    },
+                    {
+                        "time": "22:00-22:30",
+                        "status": "可预订",
+                        "show_status": "50元"
                     }
                 ],
                 "2号网球场": [
